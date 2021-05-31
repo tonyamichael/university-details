@@ -1,5 +1,4 @@
-# university-details
-Calculating mean and median of student enrollment and tuition of different universities each with three information school name, enrollment, and tuition.
+
 list = [["Califonia Institute of Technology", 2175, 37704], 
 ["Havard", 19627, 39849], 
 ["Massachusetts Institute of Technology", 10566, 40732],
